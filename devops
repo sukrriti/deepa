@@ -4,3 +4,4 @@ jenkins
 ansible
 docker
 kubernetes
+nagios
